@@ -506,7 +506,7 @@ while iteratedtime+deltat<=tmax
     %-------------k-----------------------------------------------------
     if bcNu==2
         ustar2=boundValNu;
-    elseif vcase==0
+    else
         ustar2=momFlux(1);
     end
     
