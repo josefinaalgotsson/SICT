@@ -773,7 +773,7 @@ save([selectedFolder '/' selectedFilename],...
     'cb', 'Cmu0', 'kar',...
     'g','nu','nup','nutP','nutTot','nut2Tot');
 % Print message for user
-msgbox(['Output saved to file ', selectedFilename,'.mat in ',selectedFolder])
+msgbox(['Output saved to file ', selectedFilename,' in ',selectedFolder])
 
 % --- Executes on button press in setCreate.
 function setCreate_Callback(hObject, eventdata, handles)
