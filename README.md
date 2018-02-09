@@ -7,4 +7,5 @@ with the k model by Axell & Liungman (2001).
 
 MSc Josefina Algotsson, University of Gothenburg
 
+## License
 This software is licensed under the GNU General Public License v.3
