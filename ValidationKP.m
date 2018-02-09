@@ -1,3 +1,5 @@
+% Author: MSc Josefina Algotsson, University of Gothenburg
+% This software is licensed under the GNU General Public License v.3
 %Validation according to mixed layer depth 2-layer stratification
 %Finds mld from model simulation. Uses KPA expression to find dhdt and the
 %mld for KPA.

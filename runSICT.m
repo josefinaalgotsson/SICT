@@ -1,3 +1,5 @@
+% Author: MSc Josefina Algotsson, University of Gothenburg
+% This software is licensed under the GNU General Public License v.3 
 % Close UI figure
 delete(findall(0,'Type','figure'))
 close all 

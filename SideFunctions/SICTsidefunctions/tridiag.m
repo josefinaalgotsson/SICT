@@ -1,3 +1,5 @@
+% Author: MSc Josefina Algotsson, University of Gothenburg
+% This software is licenced under the GNU General Public License v.3
 function y = tridiag( a, b, c, f )
 
 %  Solve the  n x n  tridiagonal system for y:

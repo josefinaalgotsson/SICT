@@ -1,3 +1,5 @@
+% Author: MSc Josefina Algotsson, University of Gothenburg
+% This software is licenced under the GNU General Public License v.3
 function timetracker
 global iteratedtime deltat 
 global t 

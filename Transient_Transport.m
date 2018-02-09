@@ -1,3 +1,5 @@
+% Author: MSc Josefina Algotsson, University of Gothenburg
+% This software is licensed under the GNU General Public License v.3
 function varargout = Transient_Transport(varargin)
 % TRANSIENT_TRANSPORT MATLAB code for Transient_Transport.fig
 %      TRANSIENT_TRANSPORT, by itself, creates a new TRANSIENT_TRANSPORT or raises the existing
