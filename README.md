@@ -5,4 +5,6 @@ with the k model by Axell & Liungman (2001).
 
 ## Author
 
-Josefina Algotsson
+MSc Josefina Algotsson, University of Gothenburg
+
+This software is licensed under the GNU General Public License v.3
